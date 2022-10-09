@@ -1,1 +1,1 @@
-merhba 
+The codes are homeworks from the java bootcamp of kodlama.io. The instructor is Engin Demiroğ.
